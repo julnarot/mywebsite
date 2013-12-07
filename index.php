@@ -2,7 +2,7 @@
 <body>
 <h1 align="center">hola</h1>
 <?php
-echo "hola mundo php" jujuuuu;
+echo "hola mundo phjuuuu;";
 ?>
 </body>
 </html>

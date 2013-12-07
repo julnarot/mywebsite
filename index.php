@@ -1,10 +1,13 @@
+<!--By:Raul Jonatan-->
+<!DOCTYPE html>
 <html>
-<body>
-<h1 align="center">hola</h1>
-<?php
-echo "hola mundo phjuuuu
-ahora desde netbeans    
-";
-?>
-</body>
-</html>
+    <head>
+        <title>Mi pagina persona php</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <p><a href="practica/matematica/calculadora.html">Calculadora elemental</a></p>
+
+
+</body> 
+</html> 

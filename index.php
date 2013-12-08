@@ -6,7 +6,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <p><a href="practica/matematica/calculadora.html">Calculadora elemental</a></p>
+        <p><a href="practica/matematica/calculadora/calculadora.html">Calculadora elemental</a></p>
 
 
 </body> 

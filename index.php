@@ -9,8 +9,7 @@
         <p><a href="practica/matematica/calculadora/calculadora.html">Calculadora elemental</a></p>
 <p>
     
-    <iframe src="http://vk.com/video_ext.php?oid=181235590&amp;id=165620105&amp;hash=5944660d8005b073&amp;hd=1" width="650" height="400" frameborder="0"></iframe>
-    
+   <iframe src="http://player.vimple.ru/iframe/de4a9b9886d8499c92d80c64b5538e42" width="650" height="400" frameborder="0" style="z-index:2147483647;"></iframe>
 </p>
 
 </body> 

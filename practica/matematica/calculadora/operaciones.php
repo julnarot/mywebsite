@@ -1,4 +1,5 @@
 <?php 
+
 $valor1 = $_POST['num1']; 
 $valor2 = $_POST['num2']; 
 $opcion = $_POST['opc']; 
